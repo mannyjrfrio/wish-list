@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_650579_wish_list.user" name="x_650579_wish_list.user">aa0d5f332f203010d57643e72799b699</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-12 03:46:16</sys_created_on>
+        <sys_id>a20d5bf72f603010d57643e72799b620</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aa0d5f332f203010d57643e72799b699</sys_name>
+        <sys_package display_value="Wish List" source="x_650579_wish_list">4cfc13732f603010d57643e72799b6e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">4cfc13732f603010d57643e72799b6e3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a20d5bf72f603010d57643e72799b620</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-12 03:46:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
